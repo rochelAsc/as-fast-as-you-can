@@ -1,6 +1,7 @@
 <fable>
 	<page background="bg_neve")
-        <agent img="2.png" x="200" y="0" />
+        
+        <agent img="2.png" x="200" y="0" height="100" width="50" />
   
     
       </page>
