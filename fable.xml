@@ -11,9 +11,7 @@
 <page background="bg_neve.png">
     <agent text="Há um pequeno cavaleiro.." font-size="16" x="135" y="465" width="" height="" color="ghostwhite" on-trigger="ACORDADO" on-touch="_NEXT_PAGE">
 <ACORDADO text="O ultimo que ainda está de pé." font-size="17" x="130" y="458" color="yellow" on-
-touch="_NEXT_PAGE" />
-
-</agent>
+touch="_NEXT_PAGE" /> </agent>
         <agent img="bg_neve.png" x="0" y="500" width="250" height="0" />
         <agent img="17.png" x="0" y="0" width="200" height="90" />
         <agent img="1.png" x="180" y="0" width="120" height="100" />
