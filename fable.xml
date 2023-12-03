@@ -3,18 +3,23 @@
         <agent img="bg_neve.png" x="500" y="500" width="250" height="0" />
         <agent text="Num mundo desolado.." font-size="15" x="167" y="460" width="" height="" color="white" on-touch="_NEXT_PAGE" />
     
-    <agent img="17.png" x="0" y="70" width="500" height="100" />   
-    <agent img="18.png" x="0" y="-30" width="500" height="100" />
-   </page>
-   <page background="noite_dark">
-       <agent text="Há um pequeno cavaleiro..." font-size="16" x="135" y="465" color="white"</agent>
-       <agent img="noite_dark" x="0" y="0" width="200" height="50" />
+<agent img="17.png" x="0" y="70" width="500" height="100" />   
+<agent img="18.png" x="0" y="-30" width="500" height="100" />
+    </page>
+    <page background="noite_dark">
+    <agent text="Há um pequeno cavaleiro.." font-size="16" x="135" y="465" width="" height="" color="ghostwhite" on-trigger="ACORDADO">
+<ACORDADO text="O ultimo que ainda está de pé." font-size="17" x="130" y="458" color="yellow" on-
+touch="_NEXT_PAGE" /> 
+    </agent>
+            <agent img="bg_neve.png" x="0" y="500" width="250" height="0" />
+            <agent img="17.png" x="0" y="0" width="200" height="90" />
+            <agent img="1.png" x="180" y="0" width="120" height="100" />
+            <agent img="2.png" x="300" y="0" width="120" height="100" />
+            <agent img="3.png" x="420" y="0" width="120" height="100" />
+<agent img="Dead (10).png" x="240" y="100" width="45" height="50" on-touch="ACORDADO">
+    <ACORDADO img="Idle (1).png" x="240" y="100" width="50" height="55" />
+</agent>
 
-
-
-
-
-
-
+    </page>
 
 </fable>
