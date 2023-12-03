@@ -6,9 +6,9 @@
     <agent img="17.png" x="0" y="70" width="500" height="100" />   
     <agent img="18.png" x="0" y="-30" width="500" height="100" />
    </page>
-   <page background="bg_neve.png">
+   <page background="noite_dark">
        <agent text="Há um pequeno cavaleiro..." font-size="16" x="135" y="465" color="white"</agent>
-       <agent img="2.png" x="0" y="0" width="200" height="90" />
+       <agent img="noite_dark" x="0" y="0" width="200" height="50" />
 
 
 
