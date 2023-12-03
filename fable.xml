@@ -7,7 +7,7 @@
     <agent img="18.png" x="0" y="-30" width="500" height="100" />
    </page>
    <page background="bg_neve.png">
-       <agent text="Há um pequeno cavaleiro..." font-size="16" x="135" y="465" color="white"
+       <agent text="Há um pequeno cavaleiro..." font-size="16" x="135" y="465" color="white"</agent>
 
 
 
