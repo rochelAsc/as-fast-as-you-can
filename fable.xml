@@ -6,8 +6,6 @@
 <agent img="17.png" x="0" y="70" width="500" height="100" />   
 <agent img="18.png" x="0" y="-30" width="500" height="100" />
     </page>
-
-
     <page background="bg_neve.png">
     <agent text="Há um pequeno cavaleiro.." font-size="16" x="135" y="465" width="" height="" color="ghostwhite" on-trigger="ACORDADO" on-touch="_NEXT_PAGE">
 <ACORDADO text="O ultimo que ainda está de pé." font-size="17" x="130" y="458" color="yellow" on-
