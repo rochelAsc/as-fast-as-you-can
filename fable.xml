@@ -1,7 +1,7 @@
 <fable>
     <page background="bg_neve.png">
         <agent img="bg_neve.png" x="500" y="500" width="250" height="0" />
-        <agent text="Num mundo desolado.." font-size="15" x="167" y="460" width="" height="" color="ghostwhite" on-touch="_NEXT_PAGE" />
+        <agent text="Num mundo desolado.." font-size="15" x="167" y="460" width="" height="" color="white" on-touch="_NEXT_PAGE" />
     <agent img="17.png" x="0" y="70" width="500" height="100" />
     <agent img="18.png" x="0" y="-30" width="500" height="100" />
     </page>
